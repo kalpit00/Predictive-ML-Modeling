@@ -3,4 +3,4 @@ Various ML models used to classify datasets like Yelp Reviews, Restaurant Prefer
 Models used :
 k-Nearest Neighbors,
 Decision Trees,
-Logistic Regression
+Logistic Regression, Naive Bayes
